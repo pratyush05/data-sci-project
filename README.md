@@ -1,2 +1,2 @@
 # data-sci-project
-Some basic projects using machine learning.
+Some basic codes using machine learning.
